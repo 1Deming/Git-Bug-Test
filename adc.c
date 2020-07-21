@@ -1,3 +1,17 @@
+
+
+  ******************************************************************************
+  * File Name          : ADC.c
+  * Description        : This file provides code for the configuration
+  *                      of the ADC instances.
+  ******************************************************************************
+  * @attention
+  *
+  * <h2><center>&copy; Copyright (c) 2020 STMicroelectronics.
+  * All rights reserved.</center></h2>
+  *
+
+
 /**
   ******************************************************************************
   * File Name          : ADC.c
